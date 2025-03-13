@@ -1,11 +1,5 @@
-# Características
-
-- A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
-- Os produtos são vendidos globalmente
-
-# Objetivos
-
-- [ ] Consolidar todas as bases de terceiros para realizar uma análise
-- [ ] Transformar dados de vendasem informações relevantes para a fabricante
-- [ ] Quais são os produtos mais populares em cada país
-- [ ] Como otimizar o processo de transporte e logística até o momento da venda
+Adicionei o arquivo notas_fiscais na pasta data/raw_data
+Prompts feitos no chatgpt
+1 - gere uma imagem com um gráfico de histograma. gostaria de saber o percentual de clientes que são pontuais ou não. gostaria de ver o gráfico tomando como base a data de pagamento
+2 - gere uma imagem de um gráfico em formato histograma por faixas de pagamento
+Salvei as imagens geradas pela llm na pasta insights
